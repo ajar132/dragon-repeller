@@ -7,7 +7,7 @@ Built with **HTML**, **CSS**, and **JavaScript**.
 You can play it online here: **[Dragon Repeller on GitHub Pages](https://ajar132.github.io/dragon-repeller/)***
 
 ## 📸 Screenshot
-![Gameplay Screenshot](Screenshot%202025-08-10%20033033.png)  
+![Gameplay Screenshot](Screenshot.png)  
 
 ## ✨ Features
 - **Turn-based combat** with multiple monsters.
