@@ -286,4 +286,6 @@ function pick(guess) {
     }
   }
 }
+
 goTown();
+//game
