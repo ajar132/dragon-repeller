@@ -4,7 +4,7 @@ A simple browser-based RPG game where you fight monsters, earn gold, upgrade you
 Built with **HTML**, **CSS**, and **JavaScript**.
 
 ## 🎮 Play the Game
-You can play it online here: **[Dragon Repeller on GitHub Pages](https://ajar132.github.io/dragon-repeller/)**
+You can play it online here: **[Dragon Repeller on GitHub Pages](https://ajar132.github.io/dragon-repeller/)***
 
 ## 📸 Screenshot
 ![Gameplay Screenshot](Screenshot%202025-08-10%20033033.png)  
